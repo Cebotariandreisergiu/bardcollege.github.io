@@ -7,7 +7,7 @@
 var things = ["Music", "Art", "Dance", "Theater", "Literature", "Architecture"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
+var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "easy work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
 function choosei(lst){
